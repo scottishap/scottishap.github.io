@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm Scott and I like telling stories with data. I have a math and statistics background and I’m currently enrolled in General Assembly’s Data Science Immersive Program in New York City to improve my technical capabilities. Previously, I handled baseball analytics for at [Excel Sports Management](www.excelsm.com). In that role I incorporated an analytical approach to our recruiting and contract negotiation processes. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My interests include reading, music, sports, yoga and the New York City dining scene.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[scottishap@gmail.com](mailto:scottishap@gmail.com)
